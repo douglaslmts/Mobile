@@ -1,0 +1,1 @@
+window.addEventListener('resize',function(){window.alert('mexeu na tela')})
