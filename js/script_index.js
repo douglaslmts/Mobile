@@ -12,7 +12,7 @@ window.addEventListener('resize', function() { redimenciona() })
 
 function redimenciona() {
     x.style.margin = "150px auto";
-    x.style.backgroundColor = "#9900cc";
+    x.style.backgroundColor = "#793b91";
     x.style.border = "";
     x.style.width = window.innerWidth + "px";
     x.style.height = window.innerHeight + "px";
